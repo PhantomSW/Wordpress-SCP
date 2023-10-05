@@ -1,0 +1,159 @@
+[13-Jun-2023 11:05:07 UTC] PHP Warning:  exif_imagetype(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/gris.jpg): Failed to open stream: No such file or directory in C:\Users\phant\Local Sites\lorealv2\app\public\wp-includes\functions.php on line 3268
+[13-Jun-2023 11:05:07 UTC] PHP Warning:  file_get_contents(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/gris.jpg): Failed to open stream: No such file or directory in C:\Users\phant\Local Sites\lorealv2\app\public\wp-includes\functions.php on line 3291
+[13-Jun-2023 12:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\siteorigin-panels\inc\admin.php on line 1385
+[13-Jun-2023 12:15:18 UTC] PHP Warning:  exif_imagetype(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/gris.jpg): Failed to open stream: No such file or directory in C:\Users\phant\Local Sites\lorealv2\app\public\wp-includes\functions.php on line 3268
+[13-Jun-2023 12:15:18 UTC] PHP Warning:  file_get_contents(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/gris.jpg): Failed to open stream: No such file or directory in C:\Users\phant\Local Sites\lorealv2\app\public\wp-includes\functions.php on line 3291
+[13-Jun-2023 12:36:00 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home1.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:00 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home2.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:00 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home3.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:01 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home1.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:01 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home2.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:01 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home3.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:03 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home1.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:03 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home2.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[13-Jun-2023 12:36:03 UTC] PHP Warning:  getimagesize(C:\Users\phant\Local Sites\lorealv2\app\public/wp-content/uploads/2023/06/visuel-home3.jpg): Failed to open stream: Permission denied in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 460
+[14-Jun-2023 10:18:53 UTC] PHP Parse error:  syntax error, unexpected token "=>" in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\themes\loreal\archive.php on line 28
+[19-Jun-2023 09:28:22 UTC] PHP Warning:  Undefined property: WP_Post_Type::$ID in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\menu-image\menu-image.php on line 739
+[19-Jun-2023 09:28:22 UTC] PHP Warning:  Undefined property: WP_Post_Type::$ID in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\menu-image\menu-image.php on line 743
+[19-Jun-2023 09:28:22 UTC] PHP Warning:  Undefined property: WP_Post_Type::$ID in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\menu-image\menu-image.php on line 747
+[19-Jun-2023 09:28:22 UTC] PHP Warning:  Undefined property: WP_Post_Type::$ID in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\menu-image\menu-image.php on line 751
+[19-Jun-2023 09:28:22 UTC] PHP Warning:  Undefined property: WP_Post_Type::$ID in C:\Users\phant\Local Sites\lorealv2\app\public\wp-content\plugins\menu-image\menu-image.php on line 753
+[20-Jun-2023 08:30:46 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class WP_Menu_Image does not have a method "mm_fs_uninstall_cleanup" in C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\menu-image\freemius\includes\class-freemius.php(18894): do_action('fs_after_uninst...')
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\menu-image\freemius\includes\class-freemius.php(9931): Freemius->do_action('after_uninstall')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): Freemius::_uninstall_plugin_hook('')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\includes\plugin.php(1265): do_action('uninstall_menu-...')
+#8 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\includes\plugin.php(958): uninstall_plugin('menu-image/menu...')
+#9 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\includes\ajax-actions.php(4705): delete_plugins(Array)
+#10 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#11 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#12 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#14 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php on line 308
+[20-Jun-2023 08:47:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\header.php on line 17
+[20-Jun-2023 08:47:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\footer.php on line 9
+[20-Jun-2023 08:48:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\header.php on line 17
+[20-Jun-2023 09:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 09:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 09:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 09:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 09:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 09:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 09:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 10:09:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 10:09:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 10:09:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 10:09:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 10:09:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 10:09:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 10:09:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[20-Jun-2023 12:54:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "…" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php:47
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): capitaine_register_post_types('')
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-config.php(94): require_once('C:\\Users\\phant\\...')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-load.php(50): require_once('C:\\Users\\phant\\...')
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\phant\\...')
+#7 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php on line 47
+[20-Jun-2023 12:55:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[20-Jun-2023 12:55:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[20-Jun-2023 12:56:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "…" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php:47
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): capitaine_register_post_types('')
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-config.php(94): require_once('C:\\Users\\phant\\...')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-load.php(50): require_once('C:\\Users\\phant\\...')
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\phant\\...')
+#7 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php on line 47
+[20-Jun-2023 13:00:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "…" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php:47
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): capitaine_register_post_types('')
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-config.php(94): require_once('C:\\Users\\phant\\...')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-load.php(50): require_once('C:\\Users\\phant\\...')
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\phant\\...')
+#7 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php on line 47
+[20-Jun-2023 13:01:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "…" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php:47
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): capitaine_register_post_types('')
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-config.php(94): require_once('C:\\Users\\phant\\...')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-load.php(50): require_once('C:\\Users\\phant\\...')
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\phant\\...')
+#7 C:\Users\phant\Local Sites\captainwp\app\public\index.php(17): require('C:\\Users\\phant\\...')
+#8 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php on line 47
+[20-Jun-2023 13:01:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "…" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php:47
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): capitaine_register_post_types('')
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-config.php(94): require_once('C:\\Users\\phant\\...')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-load.php(50): require_once('C:\\Users\\phant\\...')
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\phant\\...')
+#7 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php on line 47
+[20-Jun-2023 13:01:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "…" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php:47
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): capitaine_register_post_types('')
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-config.php(94): require_once('C:\\Users\\phant\\...')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-load.php(50): require_once('C:\\Users\\phant\\...')
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\phant\\...')
+#7 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php on line 47
+[20-Jun-2023 13:01:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "…" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php:47
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(308): capitaine_register_post_types('')
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\phant\Local Sites\captainwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\phant\Local Sites\captainwp\app\public\wp-config.php(94): require_once('C:\\Users\\phant\\...')
+#5 C:\Users\phant\Local Sites\captainwp\app\public\wp-load.php(50): require_once('C:\\Users\\phant\\...')
+#6 C:\Users\phant\Local Sites\captainwp\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\phant\\...')
+#7 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\functions.php on line 47
+[20-Jun-2023 13:50:40 UTC] PHP Warning:  Undefined array key "post-thumbnail" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 46
+[20-Jun-2023 13:51:44 UTC] PHP Warning:  Undefined array key "post-thumbnail" in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 45
+[20-Jun-2023 14:40:52 UTC] PHP Warning:  Undefined variable $picture in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 46
+[20-Jun-2023 14:40:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 46
+[20-Jun-2023 14:40:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 46
+[20-Jun-2023 14:40:52 UTC] PHP Warning:  Undefined variable $picture in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 46
+[20-Jun-2023 14:40:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 46
+[20-Jun-2023 14:43:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 42
+[20-Jun-2023 14:44:22 UTC] PHP Warning:  Undefined variable $var_dump in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 42
+[20-Jun-2023 14:44:22 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php:42
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\phant\\...')
+#2 C:\Users\phant\Local Sites\captainwp\app\public\index.php(17): require('C:\\Users\\phant\\...')
+#3 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 42
+[20-Jun-2023 14:44:43 UTC] PHP Warning:  Undefined variable $var_dumps in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 42
+[20-Jun-2023 14:44:43 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php:42
+Stack trace:
+#0 C:\Users\phant\Local Sites\captainwp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\phant\Local Sites\captainwp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\phant\\...')
+#2 C:\Users\phant\Local Sites\captainwp\app\public\index.php(17): require('C:\\Users\\phant\\...')
+#3 {main}
+  thrown in C:\Users\phant\Local Sites\captainwp\app\public\wp-content\themes\loreal\single.php on line 42
